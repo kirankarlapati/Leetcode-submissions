@@ -90,11 +90,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0005-longest-palindromic-substring](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0647-palindromic-substrings](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0647-palindromic-substrings) |
+| [0877-stone-game](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/kirankarlapati/neetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0009-palindrome-number) |
+| [0877-stone-game](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/kirankarlapati/neetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kirankarlapati/neetcode-submissions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Memoization
@@ -108,6 +110,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0036-valid-sudoku](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0735-asteroid-collision](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0735-asteroid-collision) |
+| [0877-stone-game](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3925-concatenate-array-with-reverse) |
@@ -166,4 +169,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0014-longest-common-prefix) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
