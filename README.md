@@ -82,6 +82,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0647-palindromic-substrings](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -103,6 +104,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0735-asteroid-collision](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0735-asteroid-collision) |
@@ -160,4 +162,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0036-valid-sudoku) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
