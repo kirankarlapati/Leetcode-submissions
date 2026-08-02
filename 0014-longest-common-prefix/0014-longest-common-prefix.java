@@ -6,6 +6,7 @@ class Solution {
             int j=0,prelen=pre.length();
             while(j<prelen && j<cr.length() && pre.charAt(j)==cr.charAt(j)) j++;
             pre=pre.substring(0,j);
+            if(pre.isEmpty()) return "";
         }
         return pre;
     }
