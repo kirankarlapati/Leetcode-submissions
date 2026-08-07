@@ -88,6 +88,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0647-palindromic-substrings](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0877-stone-game) |
@@ -96,12 +97,14 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/kirankarlapati/neetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kirankarlapati/neetcode-submissions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/kirankarlapati/neetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
 ## Array
 |  |
