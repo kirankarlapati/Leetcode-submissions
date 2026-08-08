@@ -91,6 +91,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0070-climbing-stairs](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0647-palindromic-substrings](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/kirankarlapati/neetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
 ## Math
@@ -113,6 +114,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0036-valid-sudoku](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0735-asteroid-collision](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
