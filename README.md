@@ -97,6 +97,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0746-min-cost-climbing-stairs](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/kirankarlapati/neetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Math
 |  |
 | ------- |
@@ -124,6 +125,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0746-min-cost-climbing-stairs](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0912-sort-an-array) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3925-concatenate-array-with-reverse) |
@@ -181,6 +183,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0036-valid-sudoku](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0221-maximal-square](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0221-maximal-square) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Trie
 |  |
 | ------- |
