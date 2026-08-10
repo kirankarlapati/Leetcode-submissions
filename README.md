@@ -121,6 +121,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0221-maximal-square) |
+| [0304-range-sum-query-2d-immutable](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0735-asteroid-collision](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0877-stone-game) |
@@ -183,6 +184,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0036-valid-sudoku](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0221-maximal-square](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0221-maximal-square) |
+| [0304-range-sum-query-2d-immutable](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Trie
 |  |
@@ -196,4 +198,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0509-fibonacci-number) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
