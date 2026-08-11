@@ -4,12 +4,9 @@ class SeatManager {
         pq=new PriorityQueue<>();
         for(int i=1;i<=n;i++) pq.add(i);
     }
-    
     public int reserve() {
-        int x=pq.poll();
-        return x;
+        return pq.poll();
     }
-    
     public void unreserve(int sn) {
         pq.add(sn);
     }
