@@ -154,6 +154,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0912-sort-an-array) |
+| [1845-seat-reservation-manager](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1845-seat-reservation-manager) |
 ## Merge Sort
 |  |
 | ------- |
@@ -202,6 +203,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
+| [1845-seat-reservation-manager](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1845-seat-reservation-manager) |
 ## Prefix Sum
 |  |
 | ------- |
