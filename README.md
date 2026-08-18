@@ -83,6 +83,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
@@ -135,12 +136,14 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0036-valid-sudoku) |
+| [0242-valid-anagram](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3731-find-missing-elements) |
