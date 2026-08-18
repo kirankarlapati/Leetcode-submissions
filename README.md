@@ -83,6 +83,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0014-longest-common-prefix) |
+| [0387-first-unique-character-in-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -134,6 +135,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0036-valid-sudoku) |
+| [0387-first-unique-character-in-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -170,6 +172,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0912-sort-an-array) |
 ## Stack
 |  |
@@ -208,4 +211,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
