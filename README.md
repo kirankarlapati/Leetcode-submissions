@@ -115,6 +115,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0009-palindrome-number](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0509-fibonacci-number) |
+| [0781-rabbits-in-forest](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/kirankarlapati/neetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kirankarlapati/neetcode-submissions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -140,6 +141,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0322-coin-change](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0322-coin-change) |
 | [0735-asteroid-collision](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
+| [0781-rabbits-in-forest](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0912-sort-an-array) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -153,6 +155,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0139-word-break](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
+| [0781-rabbits-in-forest](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0781-rabbits-in-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -258,4 +261,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0781-rabbits-in-forest](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0781-rabbits-in-forest) |
 <!---LeetCode Topics End-->
