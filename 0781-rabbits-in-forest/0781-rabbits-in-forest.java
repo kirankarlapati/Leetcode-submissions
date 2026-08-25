@@ -8,13 +8,5 @@ class Solution {
             x+=f*(y.getKey()+1);
         }
         return x;
-        // HashSet<Integer> hs=new HashSet<>();
-        // int y=0,z=0;
-        // for(int x:a){
-        //     if(x==0)z++;
-        //     else if(!hs.contains(x)) hs.add(x);
-        // }
-        // for(int x:hs) y=y+x+1;
-        // return y+z;
     }
 }
