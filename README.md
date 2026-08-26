@@ -91,6 +91,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0344-reverse-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0647-palindromic-substrings) |
+| [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -265,4 +266,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0781-rabbits-in-forest](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0781-rabbits-in-forest) |
+| [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 <!---LeetCode Topics End-->
