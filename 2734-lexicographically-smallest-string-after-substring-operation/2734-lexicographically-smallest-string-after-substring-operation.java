@@ -2,7 +2,6 @@ class Solution {
     public String smallestString(String s) {
         int n=s.length();
         StringBuilder sb=new StringBuilder();
-        // int count=0;
         boolean check=false;
         for(int i=0;i<n;i++){
             char ch=s.charAt(i);
