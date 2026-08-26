@@ -19,18 +19,6 @@ class Solution {
                 }
                 else sb.append(--ch);
             }
-            // if(ch!='a'){
-            //     count++;
-            //     ch--;
-            //     sb.append(ch);
-            // } else if(count>=1 && ch=='a') {
-            //     sb.append(s.substring(i,n));
-            //     break;
-            // } else if(count==0 && ch=='a') sb.append(ch);
-            // if(chrec!='a'){
-            //     chrec--;
-            //     sb.append(chrec);
-            // } else sb.append(chrec);
         }
         if(!check) sb.setCharAt(n-1,'z');
         return sb.toString();
