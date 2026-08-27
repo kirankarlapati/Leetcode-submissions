@@ -139,6 +139,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0152-maximum-product-subarray](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0221-maximal-square) |
+| [0238-product-of-array-except-self](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0322-coin-change) |
@@ -236,6 +237,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 ## Queue
 |  |
