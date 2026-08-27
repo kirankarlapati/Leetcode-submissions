@@ -152,6 +152,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3731-find-missing-elements) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -216,6 +217,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0221-maximal-square](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Trie
 |  |
 | ------- |
@@ -281,4 +283,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
