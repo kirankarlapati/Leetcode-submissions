@@ -12,9 +12,10 @@ class Solution {
                 // if(i==0) dp[i][j]=true;
                 if(j>=nums[i-1]) dp[i][j]=dp[i-1][j] || dp[i-1][j-nums[i-1]];
                 else dp[i][j]=dp[i-1][j];
-                // if(j==sum/2 && dp[i][j]==true) return true; 
+                if(j==sum/2 && dp[i][j]==true) return true; 
             }
         }
-        return dp[n][t];
+        // return dp[n][t];
+        return false;
     }
 }
