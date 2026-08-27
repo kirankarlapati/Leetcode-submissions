@@ -151,6 +151,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0912-sort-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0912-sort-an-array) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
+| [3263-convert-doubly-linked-list-to-array-i](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3731-find-missing-elements](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3925-concatenate-array-with-reverse) |
@@ -287,4 +288,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Linked List
+|  |
+| ------- |
+| [3263-convert-doubly-linked-list-to-array-i](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3263-convert-doubly-linked-list-to-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3263-convert-doubly-linked-list-to-array-i](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 <!---LeetCode Topics End-->
