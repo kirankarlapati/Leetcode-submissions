@@ -336,4 +336,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0607-sales-person](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0626-exchange-seats) |
+| [0627-swap-sex-of-employees](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
