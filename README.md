@@ -99,6 +99,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0139-word-break) |
@@ -136,6 +137,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0036-valid-sudoku) |
+| [0053-maximum-subarray](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0152-maximum-product-subarray) |
@@ -184,6 +186,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0912-sort-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
