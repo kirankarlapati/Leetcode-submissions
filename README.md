@@ -140,6 +140,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0139-word-break](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
@@ -162,6 +163,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0036-valid-sudoku](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0139-word-break) |
+| [0217-contains-duplicate](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0781-rabbits-in-forest](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0781-rabbits-in-forest) |
@@ -170,6 +172,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
