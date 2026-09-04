@@ -79,6 +79,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0005-longest-palindromic-substring](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0344-reverse-string) |
@@ -142,6 +143,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0152-maximum-product-subarray) |
@@ -179,6 +181,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0912-sort-an-array) |
