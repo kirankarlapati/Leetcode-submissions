@@ -358,6 +358,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -378,6 +379,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -390,6 +392,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Lifting
 |  |
 | ------- |
