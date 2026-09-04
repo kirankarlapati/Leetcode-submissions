@@ -257,6 +257,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0322-coin-change) |
@@ -349,6 +350,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0226-invert-binary-tree) |
@@ -356,6 +358,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0226-invert-binary-tree) |
@@ -363,6 +366,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0226-invert-binary-tree) |
