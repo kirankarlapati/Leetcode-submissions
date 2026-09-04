@@ -257,6 +257,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0322-coin-change) |
 ## Knapsack Problem
 |  |
@@ -344,4 +345,16 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0620-not-boring-movies](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0627-swap-sex-of-employees) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
