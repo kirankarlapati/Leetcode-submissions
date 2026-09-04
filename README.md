@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0344-reverse-string) |
@@ -136,6 +137,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
