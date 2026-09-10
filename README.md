@@ -123,6 +123,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0189-rotate-array) |
@@ -250,6 +251,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0143-reorder-list) |
 | [0509-fibonacci-number](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0509-fibonacci-number) |
 ## Design
@@ -314,6 +316,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0143-reorder-list) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3263-convert-doubly-linked-list-to-array-i) |
