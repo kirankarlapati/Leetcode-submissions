@@ -255,6 +255,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0002-add-two-numbers](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
@@ -322,6 +323,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0002-add-two-numbers](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 ## Doubly-Linked List
 |  |
