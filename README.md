@@ -84,6 +84,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0125-valid-palindrome](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0647-palindromic-substrings) |
 ## String
@@ -155,6 +156,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0217-contains-duplicate](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0322-coin-change) |
@@ -291,6 +293,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 ## Longest Increasing Subsequence
 |  |
@@ -421,4 +424,16 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
