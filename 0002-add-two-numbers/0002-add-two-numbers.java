@@ -13,9 +13,9 @@ class Solution {
         ListNode dum=new ListNode(0);
         ListNode curr=dum;
         int temp=0;
-        while(l1!=null || l2!=null || temp!=0){
-            int x=(l1!=null) ? l1.val:0;
-            int y=(l2!=null) ? l2.val:0;
+        while(l1!=null || l2 !=null || temp!=0){
+            int x=(l1!=null)? l1.val:0;
+            int y=(l2!=null)? l2.val:0;
             int sum=x+y+temp;
             curr.next=new ListNode(sum%10);
             curr=curr.next;
