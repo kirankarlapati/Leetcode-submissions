@@ -176,6 +176,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0036-valid-sudoku) |
+| [0138-copy-list-with-random-pointer](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0242-valid-anagram) |
@@ -322,6 +323,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0002-add-two-numbers](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3263-convert-doubly-linked-list-to-array-i) |
