@@ -99,6 +99,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0242-valid-anagram](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0647-palindromic-substrings) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -185,6 +186,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0217-contains-duplicate](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0781-rabbits-in-forest](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0781-rabbits-in-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
@@ -319,6 +321,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## 0-1 Knapsack
 |  |
