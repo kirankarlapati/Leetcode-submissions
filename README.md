@@ -162,6 +162,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0304-range-sum-query-2d-immutable](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0781-rabbits-in-forest](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0781-rabbits-in-forest) |
@@ -183,6 +184,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0217-contains-duplicate](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0781-rabbits-in-forest](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0781-rabbits-in-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3731-find-missing-elements) |
@@ -270,6 +272,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 ## Queue
 |  |
 | ------- |
