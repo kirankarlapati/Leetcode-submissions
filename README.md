@@ -154,6 +154,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0152-maximum-product-subarray](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0238-product-of-array-except-self) |
@@ -270,6 +271,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -300,6 +302,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 ## Longest Increasing Subsequence
@@ -315,6 +318,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## 0-1 Knapsack
 |  |
