@@ -166,6 +166,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0217-contains-duplicate](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
@@ -220,6 +221,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0912-sort-an-array) |
 | [1845-seat-reservation-manager](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1845-seat-reservation-manager) |
 ## Merge Sort
@@ -289,6 +291,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 ## Breadth-First Search
 |  |
@@ -331,6 +334,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## 0-1 Knapsack
@@ -475,4 +479,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0075-sort-colors) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
