@@ -53,6 +53,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0287-find-the-duplicate-number](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0647-palindromic-substrings) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -316,6 +317,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0138-copy-list-with-random-pointer](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0206-reverse-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 ## Doubly-Linked List
 |  |
