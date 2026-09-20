@@ -70,6 +70,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0647-palindromic-substrings](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0647-palindromic-substrings) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -215,6 +216,7 @@ Python For Beginners/python-hello-world/submission-0.py
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0735-asteroid-collision) |
+| [3498-reverse-degree-of-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
 |  |
