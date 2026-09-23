@@ -145,6 +145,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0912-sort-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0912-sort-an-array) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3731-find-missing-elements](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -163,6 +164,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0560-subarray-sum-equals-k](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0781-rabbits-in-forest](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0781-rabbits-in-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3731-find-missing-elements](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -255,6 +257,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0238-product-of-array-except-self](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Queue
 |  |
 | ------- |
@@ -286,6 +289,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0209-minimum-size-subarray-sum](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -303,6 +307,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0209-minimum-size-subarray-sum](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## 0-1 Knapsack
 |  |
