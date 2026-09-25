@@ -68,6 +68,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0387-first-unique-character-in-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0647-palindromic-substrings) |
+| [1096-brace-expansion-ii](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3498-reverse-degree-of-a-string) |
@@ -165,6 +166,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0424-longest-repeating-character-replacement](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0781-rabbits-in-forest](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0781-rabbits-in-forest) |
+| [1096-brace-expansion-ii](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3731-find-missing-elements](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3731-find-missing-elements) |
@@ -176,6 +178,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0217-contains-duplicate](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0912-sort-an-array) |
+| [1096-brace-expansion-ii](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3731-find-missing-elements) |
 ## Enumeration
@@ -216,6 +219,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0042-trapping-rain-water](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0143-reorder-list) |
 | [0735-asteroid-collision](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0735-asteroid-collision) |
+| [1096-brace-expansion-ii](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -272,6 +276,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0104-maximum-depth-of-binary-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0322-coin-change) |
+| [1096-brace-expansion-ii](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -463,4 +468,8 @@ Python For Beginners/python-hello-world/submission-0.py
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0239-sliding-window-maximum) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
