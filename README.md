@@ -69,6 +69,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0424-longest-repeating-character-replacement](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0647-palindromic-substrings) |
 | [1096-brace-expansion-ii](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3498-reverse-degree-of-a-string) |
@@ -148,6 +149,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3731-find-missing-elements) |
@@ -169,6 +171,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [1096-brace-expansion-ii](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3731-find-missing-elements](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
