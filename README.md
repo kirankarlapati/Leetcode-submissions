@@ -60,6 +60,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0003-longest-substring-without-repeating-characters](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0139-word-break) |
@@ -219,6 +220,7 @@ Python For Beginners/python-hello-world/submission-0.py
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0143-reorder-list) |
 | [0735-asteroid-collision](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0735-asteroid-collision) |
@@ -475,4 +477,8 @@ Python For Beginners/python-hello-world/submission-0.py
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1096-brace-expansion-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
