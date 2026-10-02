@@ -61,6 +61,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0005-longest-palindromic-substring](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0139-word-break) |
@@ -78,6 +79,7 @@ Python For Beginners/python-hello-world/submission-0.py
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0070-climbing-stairs) |
@@ -479,9 +481,11 @@ Python For Beginners/python-hello-world/submission-0.py
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
