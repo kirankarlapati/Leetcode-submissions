@@ -140,6 +140,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0300-longest-increasing-subsequence](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0322-coin-change) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0416-partition-equal-subset-sum](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0735-asteroid-collision) |
@@ -165,6 +166,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0139-word-break](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0242-valid-anagram) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0387-first-unique-character-in-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -267,6 +269,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0209-minimum-size-subarray-sum](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0560-subarray-sum-equals-k](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Queue
