@@ -71,6 +71,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0387-first-unique-character-in-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
@@ -95,6 +96,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0416-partition-equal-subset-sum](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/kirankarlapati/neetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
@@ -230,6 +232,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0032-longest-valid-parentheses](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0143-reorder-list) |
+| [0678-valid-parenthesis-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [1096-brace-expansion-ii](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 ## Simulation
@@ -318,6 +321,7 @@ Python For Beginners/python-hello-world/submission-0.py
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0781-rabbits-in-forest](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0781-rabbits-in-forest) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 ## Sliding Window
@@ -492,4 +496,5 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0020-valid-parentheses](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
