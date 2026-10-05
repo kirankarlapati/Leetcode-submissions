@@ -72,6 +72,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0424-longest-repeating-character-replacement](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/kirankarlapati/neetcode-submissions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
@@ -234,6 +235,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0143-reorder-list](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0143-reorder-list) |
 | [0678-valid-parenthesis-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 ## Simulation
 |  |
@@ -497,4 +499,5 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0022-generate-parentheses](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
