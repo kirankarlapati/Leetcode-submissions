@@ -75,6 +75,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0678-valid-parenthesis-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
@@ -239,6 +240,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0735-asteroid-collision](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 ## Simulation
 |  |
@@ -507,4 +509,5 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0678-valid-parenthesis-string](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
