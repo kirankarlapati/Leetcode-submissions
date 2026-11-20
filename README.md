@@ -129,6 +129,7 @@ Python For Beginners/python-hello-world/submission-0.py
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -173,6 +174,7 @@ Python For Beginners/python-hello-world/submission-0.py
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0138-copy-list-with-random-pointer](https://github.com/kirankarlapati/Leetcode-submissions/tree/master/0138-copy-list-with-random-pointer) |
